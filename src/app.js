@@ -6,7 +6,7 @@ let dolarDun = 9.20
 dolarDun = "9.20"
 
 {
-  let dolarDun = 9.10
+  let dolarDun = 9.100
 }
 console.log(dolarDun)
 
