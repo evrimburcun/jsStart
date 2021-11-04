@@ -102,3 +102,11 @@ console.log(newProductName)
 console.log(newUnitprice)
 console.log(newQuantity)
 
+
+
+//ÖDEV
+
+
+
+
+
