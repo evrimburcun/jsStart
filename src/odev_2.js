@@ -99,7 +99,8 @@ function Prime ()
             break;
           }
         }
-        if (control == 0){
+        if (control == 0)
+        {
             PrimeNumbers.push(i)
            
         }

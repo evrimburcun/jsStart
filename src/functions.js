@@ -104,7 +104,7 @@ console.log(newQuantity)
 
 
 
-//ÖDEV
+
 
 
 
